@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**tobycm/tobycm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ***Toby Cm***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Python Developer, on my way to full stack 😃
+
+Youtube: Toby Cm
+Twitter: @TobyCm2021
+Discord: tobycm2021#7395
+
+Like to play Minecraft, fun and being kind to everyone!
+See ya!
+
+
