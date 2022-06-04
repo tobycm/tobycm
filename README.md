@@ -14,4 +14,4 @@ Discord: tobycm2021#7395
 Like to play Minecraft, fun and being kind to everyone!
 See ya!
 
-
+[![](https://visitcount.itsvg.in/api?id=tobycm&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
