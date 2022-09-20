@@ -2,7 +2,7 @@
 
 ## ***Toby Cm*** - Chillin in my Lab
 
-<a href="discord.com/users/487597510559531009">
+<a href="https://discord.com/users/487597510559531009">
 <img src="https://tobycm.ga/badge_hehe" width="460" height="150" alt="My Discord">
 </a>
 
