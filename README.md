@@ -2,6 +2,8 @@
 
 ## ***Toby Cm*** - Chillin in my Lab
 
+[![My Discord](https://tobycm.ga/badge_hehe)](discord.com/users/487597510559531009)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
 
 ### Python and Javascript Developer! Feel free to contact me.
