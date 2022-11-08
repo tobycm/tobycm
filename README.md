@@ -1,19 +1,17 @@
 
+![https://i.ibb.co/PmvMv8f/Namecard-4x.png](https://i.ibb.co/PmvMv8f/Namecard-4x.png)
 
-## ***Toby Cm*** - Chillin in my Lab
+# ***Toby Cm*** - Chillin in my Lab
 
-<a href="https://discord.com/users/487597510559531009">
+<!-- <a href="https://discord.com/users/487597510559531009">
 <img src="https://tobycm.ga/badge_hehe" width="460" height="150" alt="My Discord">
-</a>
+</a> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
-
-### Python and Javascript Developer! Feel free to contact me.
-
-<h4 align="left">I can do code reviews and improvements for you. You can look at my main language right here:</h4>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobycm&show_icons=true&locale=en&layout=compact" alt="tobycm" />
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobycm&show_icons=true&locale=en&layout=compact" alt="tobycm" />
+</div>
+  
 <h4>I can also do collabs with any language! I try my best to learn them in a week or two.</h4><p>(or maybe more if I have homework ehe)</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobycm" alt="tobycm" /></a> </p>
