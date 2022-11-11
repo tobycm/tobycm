@@ -3,6 +3,12 @@
 
 # ***Toby Cm*** - Chillin in my Lab
 
+![https://img.shields.io/badge/Pro%20Coder-not%20yet-orange](https://img.shields.io/badge/Pro%20Coder-not%20yet-orange)
+![https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen](https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen)
+![https://img.shields.io/badge/Discord-tobycm%237395-informational](https://img.shields.io/badge/Discord-tobycm%237395-informational)
+![https://img.shields.io/badge/Twitter-%40toby__cm-blue](https://img.shields.io/badge/Twitter-%40toby__cm-blue)
+![https://img.shields.io/badge/Twitch-tobycmlive-blueviolet](https://img.shields.io/badge/Twitch-tobycmlive-blueviolet)
+
 <!-- <a href="https://discord.com/users/487597510559531009">
 <img src="https://tobycm.ga/badge_hehe" width="460" height="150" alt="My Discord">
 </a> -->
@@ -16,7 +22,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobycm" alt="tobycm" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
 Youtube: Toby Cm
 
@@ -33,4 +39,3 @@ Discord: tobycm2021#7395
 (see it's burning ^ hehe)
 
 [![](https://visitcount.itsvg.in/api?id=tobycm&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
