@@ -10,7 +10,7 @@
 ![https://img.shields.io/badge/Twitch-tobycmlive-blueviolet](https://img.shields.io/badge/Twitch-tobycmlive-blueviolet)
 
 <a href="https://discord.com/users/487597510559531009">
-<img src="[https://tobycm.ga/badge_hehe](https://toby-badge-thing-xd.tobycm.ga/badge_hehe)" width="460" height="150" alt="My Discord">
+<img src="https://toby-badge-thing-xd.tobycm.ga/badge_hehe" width="460" height="150" alt="My Discord">
 </a>
 
 <div>
