@@ -7,6 +7,8 @@
   <img style="width: 15vw" src="https://toby-badge-thing-xd.tobycm.ga/badge_hehe" alt="My Discord">
 </a>
 
+<br>
+<br>
 
 ![https://img.shields.io/badge/Pro%20Coder-not%20yet-orange](https://img.shields.io/badge/Pro%20Coder-not%20yet-orange)
 ![https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen](https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen)
@@ -15,8 +17,8 @@
 ![https://img.shields.io/badge/Twitch-tobycmlive-blueviolet](https://img.shields.io/badge/Twitch-tobycmlive-blueviolet)
 
 <div>
-  <img style="height: 25vh;" src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
-  <img style="height: 25vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobycm&show_icons=true&locale=en&layout=compact" alt="tobycm" />
+  <img style="height: 17vh;" src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
+  <img style="height: 17vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobycm&show_icons=true&locale=en&layout=compact" alt="tobycm" />
 </div>
   
 <h4>I can also do collabs with any language! I try my best to learn them in a week or two.</h4><p>(or maybe more if I have homework ehe)</p>
