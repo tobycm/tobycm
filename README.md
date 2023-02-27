@@ -3,19 +3,20 @@
 
 # ***Toby Cm*** - Chillin in my Lab
 
+<a href="https://discord.com/users/487597510559531009">
+  <img style="width: 15vw" src="https://toby-badge-thing-xd.tobycm.ga/badge_hehe" alt="My Discord">
+</a>
+
+
 ![https://img.shields.io/badge/Pro%20Coder-not%20yet-orange](https://img.shields.io/badge/Pro%20Coder-not%20yet-orange)
 ![https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen](https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen)
 ![https://img.shields.io/badge/Discord-tobycm%237395-informational](https://img.shields.io/badge/Discord-tobycm%237395-informational)
 ![https://img.shields.io/badge/Twitter-%40toby__cm-blue](https://img.shields.io/badge/Twitter-%40toby__cm-blue)
 ![https://img.shields.io/badge/Twitch-tobycmlive-blueviolet](https://img.shields.io/badge/Twitch-tobycmlive-blueviolet)
 
-<a href="https://discord.com/users/487597510559531009">
-<img src="https://toby-badge-thing-xd.tobycm.ga/badge_hehe" width="25%" alt="My Discord">
-</a>
-
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobycm&show_icons=true&locale=en&layout=compact" alt="tobycm" />
+  <img style="height: 25vh;" src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
+  <img style="height: 25vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobycm&show_icons=true&locale=en&layout=compact" alt="tobycm" />
 </div>
   
 <h4>I can also do collabs with any language! I try my best to learn them in a week or two.</h4><p>(or maybe more if I have homework ehe)</p>
