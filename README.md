@@ -146,7 +146,7 @@ Discord: [tobycm#7395](https://discord.com/users/487597510559531009)
 
 <a href="https://wakatime.com"><img width=500 src="https://wakatime.com/share/@61af32c7-8c4b-4112-a0e7-c00611659d19/7361cc6c-3ef0-4ba3-bd01-89e05e2170e1.png" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobycm&" alt="tobycm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobycm" alt="tobycm" /></p>
 
 (see it's burning ^ hehe)
 
