@@ -1,5 +1,6 @@
-
-<img src="https://raw.githubusercontent.com/tobycm/tobycm/main/Name%20Card.svg" />
+<a href="https://discord.com/users/487597510559531009">
+  <img src="https://raw.githubusercontent.com/tobycm/tobycm/main/Name%20Card.svg" />
+</a>
 
 # ***Toby Cm*** - Chillin in my Lab
 
