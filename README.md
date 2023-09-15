@@ -5,7 +5,7 @@
 # ***Toby Cm*** - Chillin in my Lab
 
 <a href="https://discord.com/users/487597510559531009">
-  <img style="width: 15vw" src="https://toby-badge-thing-xd.tobycm.ga/badge_hehe" alt="My Discord">
+  <img style="width: 15vw" src="https://toby-badge-thing-xd.tobycm.systems/badge_hehe" alt="My Discord">
 </a>
 
 <br>
