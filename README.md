@@ -2,7 +2,7 @@
 
 ![https://img.shields.io/badge/Pro%20Coder-not%20yet-orange](https://img.shields.io/badge/Pro%20Coder-not%20yet-orange)
 ![https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen](https://img.shields.io/badge/Pls%20give%20me%20stars-thank%20you%20%3AD-brightgreen)
-![https://img.shields.io/badge/Discord-tobycm%237395-informational](https://img.shields.io/badge/Discord-tobycm%237395-informational)
+![https://img.shields.io/badge/Discord-tobycm-informational](https://img.shields.io/badge/Discord-tobycm-informational)
 ![https://img.shields.io/badge/Twitter-%40toby__cm-blue](https://img.shields.io/badge/Twitter-%40toby__cm-blue)
 
 
