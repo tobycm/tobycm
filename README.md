@@ -8,7 +8,7 @@
 
 
 ### Discord:
-<a href="https://discord.com/users/487597510559531009">
+<a href="https://discord.gg/83rrbeWJ">
   <img style="width: 15vw" src="https://toby-badge-thing-xd.tobycm.dev/badge_hehe" alt="My Discord">
 </a>
 
@@ -25,7 +25,7 @@ Youtube: [Toby Cm](https://www.youtube.com/@toby_cm)
 
 Twitter: @toby_cm
 
-Discord: [tobycm](https://discord.com/users/487597510559531009)
+Discord: [tobycm](https://discord.gg/83rrbeWJ)
 
 ### Coding
 
