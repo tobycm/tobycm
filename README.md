@@ -14,10 +14,7 @@
 
 ### Some stats:
 
-<div>
-  <img style="height: 17vh;" src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
-  <img style="height: 17vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobycm&show_icons=true&locale=en&layout=compact" alt="tobycm" />
-</div>
+<img style="height: 17vh;" src="https://github-readme-stats.vercel.app/api?username=tobycm&show_icons=true&locale=en" alt="tobycm" />
 
 ### Connect with me:
 
@@ -29,8 +26,7 @@ Discord: [tobycm](https://discord.com/users/487597510559531009)
 
 ### Coding
 
-<a href="https://wakatime.com"><img width=500 src="https://wakatime.com/share/@61af32c7-8c4b-4112-a0e7-c00611659d19/7361cc6c-3ef0-4ba3-bd01-89e05e2170e1.png" /></a>
-
+![toby's hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=535&api_domain=hackatime.hackclub.com&theme=github_dark_dimmed&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobycm" alt="tobycm" /></p>
 
 (see it's burning ^ hehe)
