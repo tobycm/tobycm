@@ -17,4 +17,4 @@ Discord: [tobycm](https://discord.com/users/487597510559531009)
 ### Coding
 
 ![toby's hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=535&api_domain=hackatime.hackclub.com&theme=github_dark_dimmed&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobycm" alt="tobycm" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobycm" alt="tobycm" /></p> -->
